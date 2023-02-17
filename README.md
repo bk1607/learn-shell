@@ -1,0 +1,2 @@
+# learn-shell
+shell scripting
